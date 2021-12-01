@@ -12,7 +12,7 @@ Use the package manager [npm](https://www.npmjs.com/) to install ghg-emission-di
 
 ```bash
 npm install --save ghg-emission-did
-```.
+```
 
 ```javascript
 const ghgdid = require("ghg-emission-did");
