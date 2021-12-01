@@ -1,0 +1,29 @@
+{
+  "name": "ghg-emission-did",
+  "version": "0.0.1",
+  "description": "Create DID holding GHG Emissions",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energychain/ghg-emission-did.git"
+  },
+  "keywords": [
+    "did",
+    "vc",
+    "ghg",
+    "co2",
+    "emission"
+  ],
+  "author": "STROMDAO GmbH <dev@stromdao.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/energychain/ghg-emission-did/issues"
+  },
+  "homepage": "https://github.com/energychain/ghg-emission-did#readme",
+  "dependencies": {
+    "ethr-did": "^2.1.5"
+  }
+}
