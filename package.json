@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/energychain/ghg-emission-did#readme",
   "dependencies": {
-    "ethr-did": "^2.1.5"
+    "ethr-did": "^3.0.21"
   }
 }
